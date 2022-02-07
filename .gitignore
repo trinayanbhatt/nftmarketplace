@@ -45,3 +45,6 @@ artifacts
 
 #secret-file
 .secret
+
+#config-file
+.config.js
